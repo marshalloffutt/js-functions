@@ -15,3 +15,12 @@ firstName = 'Marshall ';
 lastName = 'Offutt';
 
 greetingElement.innerHTML = `Hello my name is ${firstName} ${lastName}`;
+
+//object shorthand notation
+
+let name = 'callan';
+let age = '10000000';
+
+let person = {name, age};
+
+console.log('person:', person.name);
