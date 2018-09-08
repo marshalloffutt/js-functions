@@ -4,6 +4,7 @@ This project is an exploration of javascript functions. We built an animal nugge
 
 ## Screenshots
 ![main screen shot](./screenshots/sn.png)
+
 ## How to run this project
 * Use npm to install http-server in your terminal:
 ```sh
