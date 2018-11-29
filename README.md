@@ -7,6 +7,7 @@ This project is a playground for basic JavaScript functions. We built an animal 
 ![main screen shot](./screenshots/sn.png)
 
 ## How to run this project
+* Clone the repository to your local machine.
 * Use npm to install http-server in your terminal:
 ```sh
 npm install -g http-server
