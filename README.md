@@ -1,6 +1,7 @@
 # Javascript Functions
 
-This project is an exploration of javascript functions. We built an animal nuggetizer, and also printed some numbers to the DOM. 
+## Description
+This project is a playground for basic JavaScript functions. We built an animal nuggetizer, and also printed some numbers to the DOM. 
 
 ## Screenshots
 ![main screen shot](./screenshots/sn.png)
